@@ -4,10 +4,10 @@
     "slug": "mais-saude",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/health-insurance.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/health-insurance.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -19,12 +19,18 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
+        "foregroundImage": "./assets/health-insurance.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.lucasflorentino.maissaude"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "e807a2b8-c2c5-4ac4-8c59-45f36900fb3a"
+      }
     }
   }
 }
