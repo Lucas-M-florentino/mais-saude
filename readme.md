@@ -27,7 +27,7 @@ Este é um aplicativo móvel desenvolvido com React Native que permite aos usuá
 
 ### Capturas de Tela
 
-[Insira capturas de tela ou gifs do aplicativo em funcionamento aqui]
+![Alt text](./assets/image-app.png)
 
 ## Pré-requisitos
 
